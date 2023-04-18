@@ -1,4 +1,4 @@
-# VirTap
+# 学习笔记
 
 * TapType: Ten-finger text entry on everyday surfaces via Bayesian inference
 
